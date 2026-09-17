@@ -45,7 +45,7 @@ rows=(
 text=(
   ""
   ""
-  "${RED}${BOLD}GitAgent v2.0.2${RESET}"
+  "${RED}${BOLD}GitAgent v2.2.0${RESET}"
   "${GRAY}A universal git-native multimodal always learning AI Agent${RESET}"
   "${GRAY}(TinyHuman)${RESET}"
   ""
